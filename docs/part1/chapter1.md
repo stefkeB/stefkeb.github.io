@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Chapter 1 - What is BIM?
+parent: Part 1 - Process
 ---
 
 
