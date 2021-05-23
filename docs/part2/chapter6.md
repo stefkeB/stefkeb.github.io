@@ -1,3 +1,9 @@
+---
+layout: default
+title: Chapter 6 - Information models and information containers
+parent: Part 2 - Model
+---
+
 # Chapter 6 - Information models and information containers
 
 > According to ISO 19650 // illustrated using Archicad & Blender & BIMcollab Zoom
