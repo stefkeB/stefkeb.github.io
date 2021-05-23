@@ -1,3 +1,9 @@
+---
+layout: default
+title: Chapter 1 - What is BIM?
+---
+
+
 # Chapter 1 - What is BIM?
 
 ## 1.1 - What is BIM? (definition)
