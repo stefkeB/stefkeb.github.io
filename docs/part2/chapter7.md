@@ -1,3 +1,9 @@
+---
+layout: default
+title: Chapter 7 - Model Authoring
+parent: Part 2 - Model
+---
+
 # Chapter 7 - Model Authoring
 
 ## 7.1 - Model Content
