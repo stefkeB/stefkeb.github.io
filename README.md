@@ -2,6 +2,9 @@
 
 > By Dr. Arch. Eng. Stefan Boeykens
 
+* TOC
+* {:toc}
+
 * Who wrote this?
 * What is this about?
 * Who is the intended audience?
