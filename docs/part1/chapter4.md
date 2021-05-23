@@ -1,3 +1,9 @@
+---
+layout: default
+title: Chapter 4 - The information management process
+parent: Part 1 - Process
+---
+
 # Chapter 4 - The information management process
 
 > According to ISO 19650 // illustrated using Plannerly + Templates(= this is the core of part 1)
