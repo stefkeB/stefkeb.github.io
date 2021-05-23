@@ -1,3 +1,9 @@
+---
+layout: default
+title: Chapter 2 - And what about open BIM?
+parent: Part 1 - Process
+---
+
 # Chapter 2 - And what about open BIM?
 
 > A (very) brief intro on Open BIM and why it matters. We need this as it affects everything else.
