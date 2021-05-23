@@ -1,3 +1,9 @@
+---
+layout: default
+title: Chapter 10 - Conceptual visualisation
+parent: Part 3 - Present
+---
+
 # Chapter 10 - Conceptual visualisation
 
 ## 10.1 Annotated Perspective

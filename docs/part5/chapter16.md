@@ -1,3 +1,9 @@
+---
+layout: default
+title: Chapter 16 - The Common Data Environment (CDE)
+parent: Part 5 - Collaborate
+---
+
 # Chapter 16 - The Common Data Environment (CDE)
 
 > Implementing the CDE Workflow & CDE Solution according to ISO 19650

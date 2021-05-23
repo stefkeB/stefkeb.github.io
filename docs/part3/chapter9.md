@@ -1,3 +1,9 @@
+---
+layout: default
+title: Chapter 9 - Documents from models
+parent: Part 3 - Present
+---
+
 # Chapter 9 - Documents from models
 
 ## 9.1 Graphical outputs from models

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Chapter 15 - Collaboration Concepts
+parent: Part 5 - Collaborate
+---
+
 # Chapter 15 - Collaboration Concepts
 
 ## Lonely BIM, Little BIM, BIG BIM, Social BIM

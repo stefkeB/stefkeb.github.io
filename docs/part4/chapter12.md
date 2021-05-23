@@ -1,3 +1,9 @@
+---
+layout: default
+title: Chapter 12 - Information Extraction
+parent: Part 4 - Calculate
+---
+
 # Chapter 12 - Information Extraction
 
 ## 12.1 Listings, Schedules

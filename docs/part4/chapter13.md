@@ -1,3 +1,9 @@
+---
+layout: default
+title: Chapter 13 - Coordination and quality assessment
+parent: Part 4 - Calculate
+---
+
 # Chapter 13 - Coordination and quality assessment
 
 ## 13.1 Clash Detection

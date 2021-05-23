@@ -1,3 +1,9 @@
+---
+layout: default
+title: Chapter 11 - Realistic visualisation
+parent: Part 3 - Present
+---
+
 # Chapter 11 - Realistic visualisation
 
 ## 11.1 Renderings (stills)
