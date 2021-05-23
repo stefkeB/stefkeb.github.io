@@ -1,3 +1,9 @@
+---
+layout: default
+title: Chapter 8 - The Digital Twin
+parent: Part 2 - Model
+---
+
 # Chapter 8 - The Digital Twin
 
 > (See presentation Kulak Spits Vastgoed)
