@@ -6,40 +6,25 @@ nav_order: 0
 
 
 
-## Welcome to GitHub Pages
+This work is a general introduction to the very broad subject of **Building Information Modelling** or **Building Information Management** (BIM), which can be read by anyone interested in the use of information technology and methods in the construction sector.
 
-You can use the [editor on GitHub](https://github.com/stefkeB/stefkeb.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+I tried to give a broad and fairly complete overview of the way information is managed, throughout the project life-cycle, by collaboration and exchange between all involved parties.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I attempted to use only minimal jargon and abbreviations, but due to the inherent nature of digital transformation, a certain degree of technical terms and three-letter acronyms is hard to avoid. So you might say I failed a bit on this objective. I apologise in advance when I get caught up in this, as if forgotten that I once was new to the subject too.
 
-### Markdown
+Care was taken to use a consistent spelling and capitalisation of terms, concepts, technologies and tools. Having worked in academia for almost two decades helped me with that, but being a non-native speaker may sometimes be obvious. And the subtleties of American versus UK English will sometimes creep in, with a little help of autocorrect.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The intended audience are scholars, such as students of architecture, engineering or other construction-related programmes, building professionals, such as architects, engineers, contractors, manufacturers and everybody who may encounter BIM in construction projects.
 
-```markdown
-Syntax highlighted code block
+I assume no special pre-existing knowledge, apart from a general scientific aptitude and an open mind. Some experience with *Computer Aided Design* is useful to put some of the technological subjects into perspective. You may want to skip some sections or return to them later, when relevant. If you are not familiar with buildings or construction, many aspects may not really appeal to you.
 
-# Header 1
-## Header 2
-### Header 3
+However, I have the experience that the chapters on standardisation and processes often require some maturity and insight on several levels. Not because these sections are complex in themselves, but they require to relate to more than your own discipline: as an architect you’ll have to reflect on the work a contractor does, as a facility manager, you will have to understand the main objectives and challenges of a designer or as a client, you have to provide input to a whole series of technical experts in a domain you may not be familiar with.
 
-- Bulleted
-- List
+Moreover, BIM tends to relate to a wide variety of subjects, from building construction to information technology and from project management to understanding how teams can collaborate.
 
-1. Numbered
-2. List
+All of this combined may make make it harder to read from time to time. But having that broad perspective is at the core of BIM so there is a deliberate choice not to avoid the depth and complexity of a subject that touches on so many different levels and domains. After all, that is also what makes it an interesting field of study.
 
-**Bold** and _Italic_ and `Code` text
+So please enjoy this work, which summarises my personal knowledge and understanding on a subject that I once believed to be able to cover in a single PhD. Little did I know at the time.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/stefkeB/stefkeb.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Dr. Arch. Eng. Stefan Boeykens, PhD
+Leuven (Belgium), June 30, 2021
